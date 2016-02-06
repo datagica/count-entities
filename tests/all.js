@@ -2,7 +2,7 @@ const chai = require('chai')
 chai.use(require('chai-fuzzy'))
 const expect = chai.expect
 
-import countEntitites from "../../lib/count-entities"
+const countEntitites = require("../lib/count-entities");
 
 describe('@datagica/count-entities', () => {
 
