@@ -1,6 +1,6 @@
 {
   "name": "@datagica/count-entities",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Count named entities in a document. It's useful. Well, for me.",
   "main": "./lib/count-entities.js",
   "scripts": {
